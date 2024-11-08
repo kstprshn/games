@@ -1,0 +1,27 @@
+C:\Users\Konstantin\source\repos\game\game\bin\Debug\game.exe.config
+C:\Users\Konstantin\source\repos\game\game\bin\Debug\game.exe
+C:\Users\Konstantin\source\repos\game\game\bin\Debug\game.pdb
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.csproj.GenerateResource.cache
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.exe
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.pdb
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.chess.resources
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.menu.resources
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.kazino.resources
+C:\Users\Konstantin\source\repos\game\game\obj\Debug\game.cars.resources
+D:\файлы ноут hp\файлы vs\game\game\bin\Debug\game.exe.config
+D:\файлы ноут hp\файлы vs\game\game\bin\Debug\game.exe
+D:\файлы ноут hp\файлы vs\game\game\bin\Debug\game.pdb
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.csproj.AssemblyReference.cache
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.chess.resources
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.menu.resources
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.kazino.resources
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.cars.resources
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.Properties.Resources.resources
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.csproj.GenerateResource.cache
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.exe
+D:\файлы ноут hp\файлы vs\game\game\obj\Debug\game.pdb
